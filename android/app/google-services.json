@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113268210537",
+    "firebase_url": "https://scientific-pad-275506.firebaseio.com",
+    "project_id": "scientific-pad-275506",
+    "storage_bucket": "scientific-pad-275506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113268210537:android:df424396b8649618099bf8",
+        "android_client_info": {
+          "package_name": "com.example.myflutterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113268210537-skpf7fjhniocjqalsnt4ssdhc0acpri4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHT4oceQZWKX-b39YFJF34_ky-2ZSpEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113268210537-skpf7fjhniocjqalsnt4ssdhc0acpri4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
